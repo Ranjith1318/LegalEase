@@ -1,3 +1,4 @@
+
 # LegalEase
 
 AI-Powered Legal Document Generator
@@ -37,3 +38,6 @@ python -m uvicorn backend.main:app --reload --port 8000
 Frontend:
 
 streamlit run frontend/app.py review together
+
+# LegalEase
+
